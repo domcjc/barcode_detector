@@ -1,7 +1,6 @@
 # barcode_detector
 Uses user dekstop camera to capture a image and apply a series of filters and gradients to detect presence of a barcode and draw a boundary box.
 
-Dominic Coleman – dcol279
 
 I wanted to extend my original barcode detection  pipeline to allow users to take as many photos of items
 they wish to scan and then immediately run all these photos through the barcode detection
